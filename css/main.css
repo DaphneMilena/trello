@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #0079BF;
+    box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  position: fixed;
+  background-color: #0067A3;
+}
+
+h2{
+	display: inline-block;
+	margin: 0 10px 0 300px;
+  text-align: center;
+	color: white;
+}
+#task{
+  margin-top: 30px;
+  
+}
